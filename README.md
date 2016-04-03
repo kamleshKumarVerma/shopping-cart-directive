@@ -3,9 +3,13 @@
 Prerequisite : -
 
 1) angular.js - 1.x
+
 2) angular-sanitize.js
+
 3) bootstrap.js and bootstrap.css
+
 4) jquery.js
+
 
 
 How to Use : - 
